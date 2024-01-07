@@ -7,10 +7,9 @@ A game made for Computer Graphics mini-project.
 
 ## Team members
 
-- [@rancidbeet3159](https://github.com/rancidbeet3159)
-- [@therisingtsun](https://github.com/therisingtsun)
-- [@Vaishnavi23022003](https://github.com/Vaishnavi23022003)
-- [@Vipiny357](https://github.com/Vipiny357)
+- [@PayalJakhar](https://github.com/PayalJakhar)
+- [@ShreyaPradhan07](https://github.com/ShreyaPradhan07)
+- [@Muskan2508](https://github.com/Muskan2508)
 
 ---
 
